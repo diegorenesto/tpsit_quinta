@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['ordina_5fper_5fanno_0',['ordina_per_anno',['../auto__struct_8c.html#a5a4ce33baa4163b44bf9130b0dc858e1',1,'auto_struct.c']]]
+  ['main_0',['main',['../classMain.html#a8a5d0f827edddff706cc0e6740d0579a',1,'Main.main()'],['../gestione__array_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;gestione_array.c'],['../gestione__stringhe_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;gestione_stringhe.c'],['../client_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;client.c'],['../server_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;server.c'],['../auto__struct_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;auto_struct.c'],['../dichiarazione__struct_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;dichiarazione_struct.c'],['../persona_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;persona.c'],['../RenestoDiego__Fila1_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;RenestoDiego_Fila1.c']]],
+  ['menu_1',['menu',['../classtools_1_1Utility.html#a40cec3e7f3335f3b7e60e74a5e131c65',1,'tools.Utility.Menu(String opzioni[], Scanner tastiera)'],['../classtools_1_1Utility.html#a40cec3e7f3335f3b7e60e74a5e131c65',1,'tools.Utility.Menu(String opzioni[], Scanner tastiera)']]],
+  ['mostra_5fmenu_2',['mostra_menu',['../auto__struct_8c.html#ada1b44050504d70ee928a777a1a47b68',1,'auto_struct.c']]]
 ];

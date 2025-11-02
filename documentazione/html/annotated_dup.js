@@ -1,10 +1,11 @@
 var annotated_dup =
 [
     [ "tools", "namespacetools.html", [
-      [ "Utility", "classtools_1_1_utility.html", "classtools_1_1_utility" ]
+      [ "Utility", "classtools_1_1Utility.html", "classtools_1_1Utility" ]
     ] ],
-    [ "Auto", "struct_auto.html", "struct_auto" ],
-    [ "GestoreTesti", "class_gestore_testi.html", "class_gestore_testi" ],
-    [ "Main", "class_main.html", "class_main" ],
-    [ "Persona", "struct_persona.html", "struct_persona" ]
+    [ "Auto", "structAuto.html", "structAuto" ],
+    [ "GestoreTesti", "classGestoreTesti.html", "classGestoreTesti" ],
+    [ "Libro", "structLibro.html", "structLibro" ],
+    [ "Main", "classMain.html", "classMain" ],
+    [ "Persona", "structPersona.html", "structPersona" ]
 ];

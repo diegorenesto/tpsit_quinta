@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['inserisci_5fauto_0',['inserisci_auto',['../auto__struct_8c.html#a504ed99766d77fdd1906afd9bc5b1e4b',1,'auto_struct.c']]],
-  ['invertifrase_1',['invertiFrase',['../class_gestore_testi.html#a31697c4b375e0f48827319f85ab00c83',1,'GestoreTesti']]]
+  ['gestione_5farray_2ec_0',['gestione_array.c',['../gestione__array_8c.html',1,'']]],
+  ['gestione_5fstringhe_2ec_1',['gestione_stringhe.c',['../gestione__stringhe_8c.html',1,'']]],
+  ['gestoretesti_2',['GestoreTesti',['../classGestoreTesti.html',1,'']]],
+  ['gestoretesti_2ejava_3',['GestoreTesti.java',['../GestoreTesti_8java.html',1,'']]]
 ];

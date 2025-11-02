@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['trova_5fprezzi_5festremi_0',['trova_prezzi_estremi',['../auto__struct_8c.html#a8134123af9e9e4b2f39070f91eb6ed9b',1,'auto_struct.c']]]
+  ['ricerca_5findex_5felimina_0',['ricerca_index_elimina',['../RenestoDiego__Fila1_8c.html#a85e2e9e487d78bb185c99102cedb4e6e',1,'RenestoDiego_Fila1.c']]]
 ];

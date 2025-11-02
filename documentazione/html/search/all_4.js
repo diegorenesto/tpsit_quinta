@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['gestione_5farray_2ec_0',['gestione_array.c',['../gestione__array_8c.html',1,'']]],
-  ['gestione_5fstringhe_2ec_1',['gestione_stringhe.c',['../gestione__stringhe_8c.html',1,'']]],
-  ['gestoretesti_2',['GestoreTesti',['../class_gestore_testi.html',1,'']]],
-  ['gestoretesti_2ejava_3',['GestoreTesti.java',['../_gestore_testi_8java.html',1,'']]]
+  ['filtra_5fper_5freddito_0',['filtra_per_reddito',['../persona_8c.html#a6efb72cbca326ed99a7aabf1db66fd68',1,'persona.c']]]
 ];

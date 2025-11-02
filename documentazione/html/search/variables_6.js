@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['targa_0',['targa',['../struct_auto.html#ad77541ffac81cdba726e19fbd4c7fa81',1,'Auto']]]
+  ['reddito_5fannuo_0',['reddito_annuo',['../structPersona.html#a079a24e563047f9884501180cd4bb0f8',1,'Persona']]],
+  ['residenza_1',['residenza',['../structPersona.html#ada74cb9d3c289df539a5e0f8b5e87f52',1,'Persona']]]
 ];

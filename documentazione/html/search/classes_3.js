@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['persona_0',['Persona',['../struct_persona.html',1,'']]]
+  ['main_0',['Main',['../classMain.html',1,'']]]
 ];

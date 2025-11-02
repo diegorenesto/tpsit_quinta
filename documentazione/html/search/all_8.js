@@ -1,4 +1,13 @@
 var searchData=
 [
-  ['ordina_5fper_5fanno_0',['ordina_per_anno',['../auto__struct_8c.html#a5a4ce33baa4163b44bf9130b0dc858e1',1,'auto_struct.c']]]
+  ['main_0',['main',['../classMain.html',1,'Main'],['../classMain.html#a8a5d0f827edddff706cc0e6740d0579a',1,'Main.main()'],['../RenestoDiego__Fila1_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;RenestoDiego_Fila1.c'],['../persona_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;persona.c'],['../dichiarazione__struct_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;dichiarazione_struct.c'],['../auto__struct_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;auto_struct.c'],['../gestione__array_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;gestione_array.c'],['../gestione__stringhe_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;gestione_stringhe.c'],['../client_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;client.c'],['../server_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;server.c']]],
+  ['main_2ejava_1',['Main.java',['../Main_8java.html',1,'']]],
+  ['marca_2',['marca',['../structAuto.html#ac2a2a12b50ccf5af3ea08ccd484c4df2',1,'Auto']]],
+  ['max_3',['MAX',['../gestione__stringhe_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'gestione_stringhe.c']]],
+  ['max_5fauto_4',['MAX_AUTO',['../auto__struct_8c.html#ae2e99f924af0a89c50233ccce891eaa2',1,'auto_struct.c']]],
+  ['max_5flibri_5',['MAX_LIBRI',['../RenestoDiego__Fila1_8c.html#aa4b0a61071c000cb4b2ba4a99c11a122',1,'RenestoDiego_Fila1.c']]],
+  ['max_5fpersone_6',['MAX_PERSONE',['../persona_8c.html#aaa8966fdf0ca9a76fc41f5093381a8d0',1,'persona.c']]],
+  ['menu_7',['menu',['../classtools_1_1Utility.html#a40cec3e7f3335f3b7e60e74a5e131c65',1,'tools.Utility.Menu(String opzioni[], Scanner tastiera)'],['../classtools_1_1Utility.html#a40cec3e7f3335f3b7e60e74a5e131c65',1,'tools.Utility.Menu(String opzioni[], Scanner tastiera)']]],
+  ['modello_5fauto_8',['modello_auto',['../structAuto.html#a1ab308311d4053cd8e329bd4a5d34647',1,'Auto']]],
+  ['mostra_5fmenu_9',['mostra_menu',['../auto__struct_8c.html#ada1b44050504d70ee928a777a1a47b68',1,'auto_struct.c']]]
 ];
