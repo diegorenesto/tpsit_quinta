@@ -11,10 +11,13 @@
 #define SERVERPORT 1313
 #define DIM 50
 
-int conta_occorrenze(char *str, char c) {
+int conta_occorrenze(char *str, char c)
+{
     int cont = 0;
-    for (int i = 0; str[i] != '\0'; i++) {
-        if (str[i] == c) {
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        if (str[i] == c)
+        {
             cont++;
         }
     }
@@ -23,7 +26,7 @@ int conta_occorrenze(char *str, char c) {
 
 int main()
 {
-    struct sockaddr_in servizio, addr_remoto;
+    struct sockaddr_in servizio;
     int socketfd, soa, fromlen;
     char str[DIM], carattere;
 
@@ -48,7 +51,7 @@ int main()
         read(soa, &carattere, sizeof(carattere));
         printf("Stringa ricevuta: %s\n", str);
         printf("Carattere ricevuto: %c\n", carattere);
-        
+
         int occorrenze = conta_occorrenze(str, carattere);
         // restituisce il numero di occorrenze al client
         write(soa, &occorrenze, sizeof(occorrenze));

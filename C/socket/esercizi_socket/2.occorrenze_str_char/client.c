@@ -27,7 +27,7 @@ int main()
     printf("Inserisci la stringa: ");
     scanf("%s", str);
     printf("Inserisci il carattere: ");
-    scanf(" %c", &carattere);
+    scanf("%c", &carattere);
 
     write(socketfd, str, sizeof(str));
     write(socketfd, &carattere, sizeof(carattere));
