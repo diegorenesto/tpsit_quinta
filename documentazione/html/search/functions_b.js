@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['visualizza_5flibri_5fautore_136',['visualizza_libri_autore',['../RenestoDiego__Fila1_8c.html#a993bf97c35abb374281b6e478702dafd',1,'RenestoDiego_Fila1.c']]],
-  ['visualizza_5fper_5fanno_137',['visualizza_per_anno',['../persona_8c.html#a0570884ba808e65803fe8cb6f6468c6b',1,'persona.c']]],
-  ['visualizza_5fper_5fprezzo_138',['visualizza_per_prezzo',['../auto__struct_8c.html#a570c87fb8a8108b069dc42116496f1e2',1,'auto_struct.c']]]
+  ['trova_5fprezzi_5festremi_0',['trova_prezzi_estremi',['../auto__struct_8c.html#a8134123af9e9e4b2f39070f91eb6ed9b',1,'auto_struct.c']]],
+  ['trova_5freddito_5festremi_1',['trova_reddito_estremi',['../persona_8c.html#ae8d14aca5ede782c8ad88b4d7931d82a',1,'persona.c']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ricerca_5findex_5felimina_127',['ricerca_index_elimina',['../RenestoDiego__Fila1_8c.html#a85e2e9e487d78bb185c99102cedb4e6e',1,'RenestoDiego_Fila1.c']]]
+  ['palindroma_0',['palindroma',['../esercizi__socket_21_8str__palindroma_2server_8c.html#a31e10d06188f93c8037cc2629df90595',1,'server.c']]]
 ];
