@@ -1,0 +1,24 @@
+var funzioni_8c =
+[
+    [ "DIM", "funzioni_8c.html#ac25189db92959bff3c6c2adf4c34b50a", null ],
+    [ "confronta_lunghezze", "funzioni_8c.html#a148d0d38f1c03aac14709d1efa098b6f", null ],
+    [ "conta_cifre", "funzioni_8c.html#a8abbf258805ec0e4245ee4ccee178b58", null ],
+    [ "conta_lettere", "funzioni_8c.html#a815da55d32cc8c0bba6301d4f13b1073", null ],
+    [ "conta_occorrenze", "funzioni_8c.html#afba708850d926a69ca6f93d0d589a749", null ],
+    [ "conta_parole", "funzioni_8c.html#a2d6883d5172ae2b29cea2e6c3db04ba1", null ],
+    [ "conta_spazi", "funzioni_8c.html#a9c38b0d3c16d92cea10890e924a13b5f", null ],
+    [ "conta_speciali", "funzioni_8c.html#a20cb06e8d5e19e68f0c65b5a5ec2248f", null ],
+    [ "conta_vocali", "funzioni_8c.html#a13b40f6f1ab57a30cfd23c1eb1a1c7ed", null ],
+    [ "inverti_stringa", "funzioni_8c.html#abf89c07f1bb31c64a10271fc4c8667cb", null ],
+    [ "lettere_dispari", "funzioni_8c.html#a94a76153a9b71773840d45cc3a246ac9", null ],
+    [ "lettere_pari", "funzioni_8c.html#a69e1b0d2b0eaee75c9ed25cb15bc0882", null ],
+    [ "maiuscolo", "funzioni_8c.html#a2fa41ab6ee96ef50232415606e7bab6d", null ],
+    [ "minuscolo", "funzioni_8c.html#aea981b9bbf37d02baed5f67bdcf4bf6d", null ],
+    [ "ordina_alfabeticamente", "funzioni_8c.html#ac6bfaab09082fc96cf0f9b5321c9497e", null ],
+    [ "palindroma", "funzioni_8c.html#a31e10d06188f93c8037cc2629df90595", null ],
+    [ "rimuovi_duplicati", "funzioni_8c.html#abf4949b6dd8984014746612375610702", null ],
+    [ "rimuovi_vocali", "funzioni_8c.html#ad1a8913948a66ba818a98e4a980bc786", null ],
+    [ "somma_dispari", "funzioni_8c.html#a4a385e912523d93277dadbf9ae6afb2c", null ],
+    [ "somma_pari", "funzioni_8c.html#a201d5183ead245944fec77fb4f65ca0f", null ],
+    [ "str_alfabetica", "funzioni_8c.html#af771efce19925c779b1245628dae8919", null ]
+];

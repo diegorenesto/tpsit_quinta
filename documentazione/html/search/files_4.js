@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['main_2ejava_0',['Main.java',['../Main_8java.html',1,'']]]
+  ['gestione_5farray_2ec_0',['gestione_array.c',['../gestione__array_8c.html',1,'']]],
+  ['gestione_5fstringhe_2ec_1',['gestione_stringhe.c',['../gestione__stringhe_8c.html',1,'']]],
+  ['gestoretesti_2ejava_2',['GestoreTesti.java',['../_gestore_testi_8java.html',1,'']]]
 ];

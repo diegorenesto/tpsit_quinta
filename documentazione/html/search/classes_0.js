@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['auto_0',['Auto',['../structAuto.html',1,'']]]
+  ['auto_0',['Auto',['../struct_auto.html',1,'']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['server_2ec_0',['server.c',['../esercizi__socket_21_8str__palindroma_2server_8c.html',1,'(Global Namespace)'],['../esercizi__socket_22_8occorrenze__str__char_2server_8c.html',1,'(Global Namespace)'],['../esercizi__socket_23_8ordina__alfabeticamente_2server_8c.html',1,'(Global Namespace)'],['../esercizi__socket_24_8str__pari__dispari_2server_8c.html',1,'(Global Namespace)'],['../esercizi__socket_25_8confronto__dim__str_2server_8c.html',1,'(Global Namespace)'],['../esercizi__socket_26_8somma__pari__dispari_2server_8c.html',1,'(Global Namespace)'],['../intro__socket_2server_8c.html',1,'(Global Namespace)']]]
+  ['readme_2emd_0',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['renestodiego_5ffila1_2ec_1',['RenestoDiego_Fila1.c',['../_renesto_diego___fila1_8c.html',1,'']]]
 ];

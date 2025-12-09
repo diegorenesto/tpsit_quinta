@@ -1,4 +1,4 @@
 var namespacetools =
 [
-    [ "Utility", "classtools_1_1Utility.html", "classtools_1_1Utility" ]
+    [ "Utility", "classtools_1_1_utility.html", "classtools_1_1_utility" ]
 ];

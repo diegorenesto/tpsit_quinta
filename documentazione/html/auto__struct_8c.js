@@ -1,6 +1,6 @@
 var auto__struct_8c =
 [
-    [ "Auto", "structAuto.html", "structAuto" ],
+    [ "Auto", "struct_auto.html", "struct_auto" ],
     [ "MAX_AUTO", "auto__struct_8c.html#ae2e99f924af0a89c50233ccce891eaa2", null ],
     [ "calcola_media", "auto__struct_8c.html#a9ca8fb2ee8725d437458c349433a319c", null ],
     [ "cerca_per_anno", "auto__struct_8c.html#ac43073afb54cf4566d632b246933488f", null ],

@@ -50,8 +50,10 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"GestoreTesti_2src_2tools_2Utility_8java.html"
+"_gestore_testi_2src_2tools_2_utility_8java.html",
+"struct_auto.html#a1ab308311d4053cd8e329bd4a5d34647"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';
