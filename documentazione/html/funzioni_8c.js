@@ -4,6 +4,7 @@ var funzioni_8c =
     [ "confronta_lunghezze", "funzioni_8c.html#a148d0d38f1c03aac14709d1efa098b6f", null ],
     [ "conta_cifre", "funzioni_8c.html#a8abbf258805ec0e4245ee4ccee178b58", null ],
     [ "conta_lettere", "funzioni_8c.html#a815da55d32cc8c0bba6301d4f13b1073", null ],
+    [ "conta_maiuscole", "funzioni_8c.html#a0d845e50302826e938e99118fe19ae6b", null ],
     [ "conta_occorrenze", "funzioni_8c.html#afba708850d926a69ca6f93d0d589a749", null ],
     [ "conta_parole", "funzioni_8c.html#a2d6883d5172ae2b29cea2e6c3db04ba1", null ],
     [ "conta_spazi", "funzioni_8c.html#a9c38b0d3c16d92cea10890e924a13b5f", null ],
@@ -20,5 +21,6 @@ var funzioni_8c =
     [ "rimuovi_vocali", "funzioni_8c.html#ad1a8913948a66ba818a98e4a980bc786", null ],
     [ "somma_dispari", "funzioni_8c.html#a4a385e912523d93277dadbf9ae6afb2c", null ],
     [ "somma_pari", "funzioni_8c.html#a201d5183ead245944fec77fb4f65ca0f", null ],
-    [ "str_alfabetica", "funzioni_8c.html#af771efce19925c779b1245628dae8919", null ]
+    [ "str_alfabetica", "funzioni_8c.html#af771efce19925c779b1245628dae8919", null ],
+    [ "stringa_speciale", "funzioni_8c.html#a406e72dcbc7b441ee5d959a1ea14d2ad", null ]
 ];

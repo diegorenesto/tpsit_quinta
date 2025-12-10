@@ -1,6 +1,6 @@
 var persona_8c =
 [
-    [ "Persona", "struct_persona.html", "struct_persona" ],
+    [ "Persona", "structPersona.html", "structPersona" ],
     [ "DIM", "persona_8c.html#ac25189db92959bff3c6c2adf4c34b50a", null ],
     [ "MAX_PERSONE", "persona_8c.html#aaa8966fdf0ca9a76fc41f5093381a8d0", null ],
     [ "calcola_media_redditi", "persona_8c.html#a472325617951250b00b8d1f09cc7a26c", null ],

@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "TPSIT_QUINTA", "index.html", [
+    [ "README", "md_C_2README.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
@@ -50,10 +51,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_gestore_testi_2src_2tools_2_utility_8java.html",
-"struct_auto.html#a1ab308311d4053cd8e329bd4a5d34647"
+"GestoreTesti_2src_2tools_2Utility_8java.html",
+"preparazione__verifica_2es__5_2server_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
-var LISTOFALLMEMBERS = 'List of all members';
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

@@ -316,3 +316,34 @@ int somma_dispari(int arr[])
     }
     return somma;
 }
+
+/* ============================================================
+ *                 CONTA MAIUSCOLE
+ * ============================================================ */
+int conta_maiuscole(char str[])
+{
+    int cont = 0;
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        if (isupper(str[i])) // isupper funzione definita in ctype.h, controlla che il carattere sia in uppercase
+            cont++;
+    }
+    return cont;
+}
+
+/* ============================================================
+ *                 STRINGA SPECIALE, CARATTERI SPECIALI
+ * ============================================================ */
+void stringa_speciale(char str[])
+{
+    int j = 0;
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        if (isgraph(str[i]) && !isalnum(str[i]))
+        {
+            str[j] = str[i];
+            j++;
+        }
+    }
+    str[j] = '\0';
+}
