@@ -1,0 +1,80 @@
+ESERCIZIO – Monitoraggio Temperature Giornaliere Client–Server in Python
+con GUI
+Contesto reale
+Un’azienda che si occupa di monitoraggio ambientale e climatico deve realizzare
+un sistema per la raccolta e l’elaborazione delle temperature giornaliere rilevate in
+una determinata area (es. laboratorio scolastico, serra, magazzino refrigerato).
+Ogni giorno vengono effettuate due rilevazioni di temperatura:
+ una alle ore 12:00
+ una alle ore 24:00
+Un operatore inserisce i dati tramite un client con interfaccia grafica, che li invia a
+un server centrale incaricato di analizzarli.
+Obiettivo dell’esercizio
+Sviluppare un’applicazione Client–Server in Python che consenta:
+ l’invio delle temperature giornaliere
+ il calcolo di statistiche complessive da parte del server
+Specifiche tecniche
+�� Client (con GUI)
+Il client deve:
+1. Visualizzare una finestra grafica con titolo
+“Invio Temperature Giornaliere – Stazione Meteo”
+2. Consentire l’inserimento dei dati per N giorni, specificando per ogni giorno:
+o il giorno di rilevazione (es. 01/03/2025)
+o la temperatura rilevata alle ore 12:00
+o la temperatura rilevata alle ore 24:00
+3. I dati possono essere inseriti:
+o tramite più campi di testo
+oppure
+o come stringa strutturata, ad esempio:
+01/03/2025;18.5;16.2
+02/03/2025;19.1;17.0
+
+03/03/2025;20.0;18.4
+
+4. Prevedere:
+o un pulsante “Invia dati”
+5. Alla pressione del pulsante:
+o inviare al server tutti i dati inseriti
+o ricevere la risposta elaborata dal server
+6. Visualizzare i risultati in una finestra di dialogo o in un’area di testo della GUI
+7. Gestire errori di input (date non valide, valori non numerici, formati errati)
+�� Server (console)
+Il server deve:
+1. Mettersi in ascolto su una porta scelta dallo studente
+2. Accettare la connessione di un client
+3. Ricevere la stringa contenente i dati di più giorni
+4. Per ogni giorno:
+o separare data, temperatura delle 12:00 e temperatura delle 24:00
+o convertire le temperature in valori numerici
+5. Calcolare:
+o temperatura media complessiva (su tutte le rilevazioni)
+o temperatura massima registrata
+o temperatura minima registrata
+6. Preparare una risposta formattata, ad esempio:
+Numero giorni analizzati: 3
+Numero rilevazioni totali: 6
+
+Temperatura media: 18.85 °C
+Temperatura massima: 20.0 °C
+Temperatura minima: 16.2 °C
+7. Inviare la risposta al client
+8. Chiudere correttamente la connessione
+
+Vincoli
+ Utilizzare socket TCP
+ Il client deve usare Tkinter
+ Il server gestisce una richiesta alla volta
+ Codice commentato e leggibile
+
+Esempio di utilizzo
+Input client:
+01/03/2025;18.5;16.2
+02/03/2025;19.1;17.0
+03/03/2025;20.0;18.4
+Risposta server:
+Numero giorni analizzati: 3
+Numero rilevazioni totali: 6
+
+Temperatura media: 18.87 °C
+Temperatura massima: 20.0 °C
+Temperatura minima: 16.2 °C
